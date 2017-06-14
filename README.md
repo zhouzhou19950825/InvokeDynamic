@@ -119,5 +119,5 @@ public static CallSite BootstrapMethod(MethodHandles.Lookup lookup, String name,
 
 
 这是简单整理的三个小Demo，还可以通过javassist去调用。
-
+后续还会添加更多的demo。
 
